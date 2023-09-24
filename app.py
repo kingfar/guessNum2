@@ -15,3 +15,4 @@ for i in range(1, 8):
         print("> 猜高些試試")
 print("\n正確答案是：" + str(answerNum))
 input()
+
